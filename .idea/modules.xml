@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java_Learn_Tank/Java_Learn_Tank.iml" filepath="$PROJECT_DIR$/Java_Learn_Tank/Java_Learn_Tank.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tank_War.iml" filepath="$PROJECT_DIR$/Tank_War.iml" />
     </modules>
   </component>
